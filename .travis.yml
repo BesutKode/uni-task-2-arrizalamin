@@ -1,0 +1,8 @@
+language: node_js
+node_js: "6"
+script:
+  - node index.js "Pulau Batam.json"
+  - npm test
+branches:
+  only:
+    - master

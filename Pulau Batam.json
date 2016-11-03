@@ -1,0 +1,19 @@
+[
+  {
+    "type": "overpass-query",
+    "query": "[out:json];way(41333805);(._;>;);out geom;",
+    "name": "Pulau Batam"
+  },
+  {
+    "type": "wikimapia-id",
+    "id": 8055954
+  },
+  {
+    "type": "wikimapia-id",
+    "id": 8362247
+  },
+  {
+    "type": "wikimapia-id",
+    "id": 25586936
+  }
+]
