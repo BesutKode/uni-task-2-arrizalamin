@@ -7,9 +7,15 @@
   under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/)
 - Waduk Sei Harapan: Coordinates obtained using [Wikimapia API](http://wikimapia.org/8362247/Waduk-Sei-Harapan)
   under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
-- Danau Sekupang: Coordinates obtained using [Wikimapia API](http://wikimapia.org/25586936/Danau-Sekupang)
+- Waduk Sei Ladi:Coordinates obtained using [Wikimapia API](http://wikimapia.org/6875450/id/Waduk-Sei-Ladi)
   under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
 - Waduk Baloi: Coordinates obtained using [Wikimapia API](http://wikimapia.org/8055954/Waduk-Baloi)
+  under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
+- Waduk Duriangkang: Coordinates obtained using [Wikimapia API](http://wikimapia.org/7907944/Waduk-Duriangkang-Water-Catchment-Reservoir)
+  under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
+- Waduk Muka Kuning: Coordinates obtained using [Wikimapia API](http://wikimapia.org/8362327/Waduk-Muka-Kuning)
+  under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
+- Danau Sekupang: Coordinates obtained using [Wikimapia API](http://wikimapia.org/25586936/Danau-Sekupang)
   under license [Creative Commons Attribution-ShareAlike License](http://wikimapia.org/terms_reference.html)
 
 ## Installation
